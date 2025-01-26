@@ -1,14 +1,16 @@
 👋 Hi, I’m Gaddam Karthik Reddy
 
-👀 I’m interested in machine learning, data science, and AI-driven solutions. I enjoy working on projects that involve natural language processing, predictive modeling.
+👀 I’m passionate about machine learning, deep learning, computer vision, and natural language processing. I enjoy solving real-world problems through data-driven insights, AI-driven solutions, and automation techniques.
 
-🌱 I’m currently learning Deep learning techniques and exploring the applications of AI in different domains. I'm also enhancing my skills in data visualization and model interpretability.
+🌱 I’m currently working on tasks involving ML, DL, Python, NLP, OpenCV, and data scraping, while continuously enhancing my skills in model optimization, data analysis, and AI deployment.
 
-💞️ I’m looking to collaborate on open-source projects related to machine learning and data analysis. I’m particularly interested in projects that leverage AI for social good, such as improving healthcare, education, and environmental sustainability.
+💡 I have hands-on experience developing and deploying projects like sentiment analysis models, price prediction systems, attendance monitoring systems, and more.
+
+💞️ I’m looking to collaborate on impactful projects related to AI, data science, and automation. I’m particularly interested in leveraging AI to solve challenges in healthcare, education, and sustainability while contributing to open-source initiatives.
 
 📫 How to reach me: You can reach me via email at kr4434832@gmail.com or connect with me on LinkedIn [LinkedIn](www.linkedin.com/in/gaddam-karthik-reddy-587456253).
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: When I’m not coding or learning new technologies, I love hiking and exploring nature trails. I also love exploring the intersection of technology and psychology!.
+⚡ Fun fact: When I’m not coding or learning new technologies, I love hiking and exploring nature trails. I also love exploring the intersection of technology and psychology!
 
